@@ -4,7 +4,7 @@ pipeline {
         timeout(time: 4, unit: 'HOURS') 
     }   
   environment {
-    APPSYSID = '47ca17d493507a94ca30b3b86cba100f'
+    APPSYSID = '47ca17d493507a94ca30b3b86cba100f' 
     CREDENTIALS = 'servicenow'
     DEVENV = 'https://hclnowintelligence.service-now.com'
     PRODENV = 'https://ven03869.service-now.com'

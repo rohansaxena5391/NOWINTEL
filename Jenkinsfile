@@ -8,7 +8,6 @@ pipeline {
     CREDENTIALS = 'servicenow'
     DEVENV = 'https://hclnowintelligence.service-now.com'
     PRODENV = 'https://ven03869.service-now.com'
-    #TESTSUITEID = 'bf8c266d732333005ce769972bf6a777'
   }
     
 

@@ -25,8 +25,7 @@ stages {
     
     stage('Install'){
            steps {
-        snDevOpsChange()
-       snInstallApp(credentialsId: "${CREDENTIALS}", url: "${PRODENV}", appSysId: "${APPSYSID}", baseAppAutoUpgrade: false)        
+              snInstallApp(credentialsId: "${CREDENTIALS}", url: "${PRODENV}", appSysId: "${APPSYSID}", baseAppAutoUpgrade: false)        
         
       }
     }

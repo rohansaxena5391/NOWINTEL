@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>CI CD Pipeline POC</short_description>
         <source>x_hclte_ci_cd_poc</source>
-        <store_correlation_id>REPOAPP0002277320</store_correlation_id>
+        <store_correlation_id>REPOAPP0002277322</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,15 +32,15 @@
         <sys_created_by>rohan_saxena@hcl.com</sys_created_by>
         <sys_created_on>2025-09-26 13:51:16</sys_created_on>
         <sys_id>47ca17d493507a94ca30b3b86cba100f</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
-        <sys_updated_on>2025-09-26 17:10:20</sys_updated_on>
+        <sys_updated_on>2025-09-26 17:12:31</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.9</version>
+        <version>1.2.0</version>
     </sys_app>
 </record_update>
